@@ -1,2 +1,3 @@
 # vimrc
-vimrcの設定.自分用.
+vimrcの設定
+自分用
